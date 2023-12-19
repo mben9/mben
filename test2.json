@@ -1,8 +1,8 @@
 {
-    "url": "https://mben9.github.io/mben/test.yaml",
+    "url": "https://mben9.github.io/mben/test2.yaml",
     "urls": [
         {
-            "url": "https://mben9.github.io/mben/test.yaml",
+            "url": "https://mben9.github.io/mben/test2.yaml",
             "name": "Foo"
         }
     ]
